@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@line/liff": "2.24.0",
+    "@notionhq/client": "^2.2.15",
     "next": "15.0.1",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021"
