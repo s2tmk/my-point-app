@@ -40,7 +40,7 @@ const Home: NextPage<{
       <main>
         <div className="h-screen flex items-center justify-center p-2">
           <div className="h-10">
-            <span className="text-4xl text-green-700">{user.point}</span>
+            <span className="text-4xl text-green-500">{user.point}</span>
             <span className="pl-2 align-bottom">Pt</span>
           </div>
         </div>
